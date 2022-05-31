@@ -1,0 +1,80 @@
+body{
+    background-image: url("../_midia/fundo.jpg");
+    box-shadow: 100% 100% 100% black;
+}
+
+#Idioma{
+    text-align: right;
+    color: white;
+    background-color: red;
+}
+
+#cabecalho{
+    
+}
+
+.comeco{
+    color: white;
+    text-align: center;
+    width: 1000px;
+    text-align: center;
+}
+
+.vamos{
+    text-align: center;
+}
+
+
+.email{
+    text-align: center;
+}
+
+#article{
+    background-color: black;
+    color: white;
+    text-align: left;
+    width: auto;
+    text-align: center;
+}
+
+#first{
+    border: gray ridge 8px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+#second{
+    border: gray ridge 8px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+#third{
+    border: gray ridge 8px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+#fourth{
+    border: gray ridge 8px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+#fifth{
+    border: gray ridge 8px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+#sixth{
+    border: gray ridge 8px;
+    background-color: black;
+    color: gray;
+    text-align: center;
+}
